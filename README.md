@@ -185,7 +185,3 @@ Each component is in its own module.
 For example, if you'd like to use an existing VPC, you can remove the
 `vpc.tf` file in the cluster directory and add your own VPC id in.
 You'd also need to provide the subnets to put the cluster in.
-
-## Contributing
-
-Any comments and improvements are welcome!
